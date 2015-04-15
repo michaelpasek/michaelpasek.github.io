@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Michael Pasek
 locale:           en_US
 url:              
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Michael Pasek
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Theoretical physicist."
   email: 
   disqus-shortname: 
   twitter: #username
