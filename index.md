@@ -1,9 +1,8 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+excerpt: "Homepage of Michael Pasek, Theoretical physicist."
 ---
+
+## A Brief Description
+
+I am currently working as a post-doctoral researcher in Laboratoire Kastler-Brossel (UPMC, ENS) and Laboratoire Matériaux et Phénomènes Quantiques (Université Paris Diderot).
