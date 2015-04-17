@@ -7,17 +7,15 @@ share: false
 
 {% include _toc.html %}
 
-## Research Themes
-
-* Quantum chaos
-* Topological states of matter
+* Quantum / Wave chaos
+* Topological states of light and matter
 * Anderson localization
 * Mesoscopic physics
 
+### Introduction
 
-## Research Subjects
-
-Expect some form of introduction here (coming soon!).
+Expect some form of introduction here (coming soon!). 
+\\[\left( -\frac{\hbar^2}{2 m} \pmb{\nabla} ^2 + V(\pmb{r}) \right) \Psi(\pmb{r}) = E \Psi(\pmb{r})\\]
 
 #### Wave chaos and the seismology of rotating stars
 
