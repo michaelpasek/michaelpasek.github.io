@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Teaching
-excerpt: "A Description of my teaching."
+excerpt: "Courses I teach."
 share: false
 ---
 
-I have no teaching duties at the moment!
+I have no teaching duties at the moment.

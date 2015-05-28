@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Information
-excerpt: "Contact information of Michael Pasek."
+excerpt: "How to contact me."
 share: false
 ---
 
