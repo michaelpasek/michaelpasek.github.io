@@ -7,10 +7,9 @@ share: false
 
 {% include _toc.html %}
 
-* Quantum chaos
-* Topological states of light and matter
-* Anderson localization
-* Mesoscopic physics
+* Disordered systems and quantum chaos
+* Topological effects and synthetic gauge fields
+* Mesoscopic physics with cold atomic gases
 
 ### Introduction
 
