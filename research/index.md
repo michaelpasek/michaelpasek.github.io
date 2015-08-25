@@ -8,7 +8,7 @@ share: false
 {% include _toc.html %}
 
 * Disordered systems and quantum chaos
-* Topological effects and synthetic gauge fields
+* Topological states and synthetic gauge fields
 * Mesoscopic physics with cold atomic gases
 
 ### Introduction
