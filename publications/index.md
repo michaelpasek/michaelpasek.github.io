@@ -7,6 +7,12 @@ share: false
 
 {% include _toc.html %}
 
+## Preprints
+
+  1. M. Pasek, Z. Zhao, D. Delande, and G. Orso\\
+  **Phase diagram of the 3D Anderson model for uncorrelated speckle potentials**\\
+  [arXiv:1509.05650](http://arxiv.org/abs/1509.05650)
+
 ## Peer-reviewed articles
 
   4. W. Hu, J.C. Pillay, K. Wu, M. Pasek, and Y.D. Chong\\
