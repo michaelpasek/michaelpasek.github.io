@@ -9,11 +9,13 @@ share: false
 
 ## Preprints
 
-  1. M. Pasek, Z. Zhao, D. Delande, and G. Orso\\
-  **Phase diagram of the 3D Anderson model for uncorrelated speckle potentials**\\
-  [arXiv:1509.05650](http://arxiv.org/abs/1509.05650)
+  --
 
 ## Peer-reviewed articles
+
+  5. M. Pasek, Z. Zhao, D. Delande, and G. Orso\\
+  **Phase diagram of the three-dimensional Anderson model for short-range speckle potentials**\\
+  Phys. Rev. A (in press), [arXiv:1509.05650](http://arxiv.org/abs/1509.05650)
 
   4. W. Hu, J.C. Pillay, K. Wu, M. Pasek, and Y.D. Chong\\
   **Measurement of a Topological Edge Invariant in a Microwave Network**\\
