@@ -10,6 +10,7 @@ share: false
 * Disordered systems and quantum chaos
 * Topological states and synthetic gauge fields
 * Quantum transport with cold atomic gases
+* Many-body physics with ultracold Fermi gases
 
 ### Introduction
 
