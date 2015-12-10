@@ -26,7 +26,7 @@ For those rapidly rotating stars, an adequate asymptotic theory of oscillation m
 
 By studying the asymptotic regime of pressure waves with the tools of [quantum chaos](http://www.scientificamerican.com/article/quantum-chaos-subatomic-worlds/), we were able to show that the oscillation spectrum 
 of these stars is a superposition of different 'integrable' (regular) and 'chaotic' (irregular) sub-spectra. 
-Most importantly for asteroseismology, we obtained semi-analytical formulas that predict the values of regular frequency spacings in the 'integrable' spectrum, which can provide constraints on physical properties of rapidly rotating stars that are observed.
+Most importantly for asteroseismology, we obtained semi-analytical formulas that predict the values of regular frequency spacings in the 'integrable' spectrum, which can provide constraints on physical properties of rapidly rotating stars which are observed.
 
    - Quantum/wave chaos, Gutzwiller trace formula, Random matrix theory
 
