@@ -7,11 +7,13 @@ share: false
 
 {% include _toc.html %}
 
-## Preprints
+### Preprints
 
-  --
+  1. M. Pasek, G. Orso, and D. Delande\\
+  **Anderson localization of ultracold atoms: Where is the mobility edge?**\\
+  [arXiv:1609.01065](http://arxiv.org/abs/1609.01065)
 
-## Peer-reviewed articles
+### Peer-reviewed articles
 
   5. M. Pasek, Z. Zhao, D. Delande, and G. Orso\\
   **Phase diagram of the three-dimensional Anderson model for short-range speckle potentials**\\
@@ -35,7 +37,7 @@ share: false
   [Phys. Rev. Lett. **107**, 121101 (2011)](http://prl.aps.org/abstract/PRL/v107/i12/e121101), [arXiv:1105.5586](http://arxiv.org/abs/1105.5586)\\
   (Article featured in a press release of the Institut de Physique du CNRS, [**Ausculter les étoiles en rotation**](http://www.cnrs.fr/inp/spip.php?article533), in French)
 
-## Book chapters
+### Book chapters
 
   1. M. Pasek, and B. Georgeot\\
   **Regular and Irregular Pressure Modes in Rapidly Rotating Stars**\\

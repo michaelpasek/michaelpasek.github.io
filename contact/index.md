@@ -5,12 +5,18 @@ excerpt: "How to contact me."
 share: false
 ---
 
-* E-mail: michael.pasek at lkb.upmc.fr
+* E-mail: michael.pasek at polytechnique.edu
 
-* Université Pierre et Marie Curie - Paris 6\\
-  Laboratoire Kastler Brossel\\
-  tour 12/13, bureau 206
+* Phone: (+33)144271481 (CdF), (+33)169334281 (CPHT)
 
-* Université Paris Diderot - Paris 7\\
-  Laboratoire Matériaux et Phénomènes Quantiques\\
-  Bâtiment Condorcet, bureau 606B
+* Centre de Physique Théorique\\
+  Ecole Polytechnique\\
+  91128 Palaiseau Cedex\\
+  France
+
+* Institut de Physique\\
+  Collège de France\\
+  11, place Marcelin-Berthelot\\
+  75231 Paris Cedex 05\\
+  France
+
