@@ -9,11 +9,13 @@ share: false
 
 ### Preprints
 
-  1. M. Pasek, G. Orso, and D. Delande\\
-  **Anderson localization of ultracold atoms: Where is the mobility edge?**\\
-  [arXiv:1609.01065](http://arxiv.org/abs/1609.01065)
+  ...
 
 ### Peer-reviewed articles
+
+  6. M. Pasek, G. Orso, and D. Delande\\
+  **Anderson localization of ultracold atoms: Where is the mobility edge?**\\
+  Phys. Rev. Lett. *in press*, [arXiv:1609.01065](http://arxiv.org/abs/1609.01065)
 
   5. M. Pasek, Z. Zhao, D. Delande, and G. Orso\\
   **Phase diagram of the three-dimensional Anderson model for short-range speckle potentials**\\
