@@ -6,15 +6,13 @@ share: false
 ---
 
 {% include _toc.html %}
+My expertise and interests lie in the fields of:
+* Mesoscopic physics and quantum transport
+* Disordered systems
+* Strongly-correlated systems
+* Topological phases of light and matter
 
-* Disordered systems and quantum chaos
-* Topological states and synthetic gauge fields
-* Quantum transport with cold atomic gases
-* Many-body physics with ultracold Fermi gases
-
-### Introduction
-
-The following is a brief description of the subjects I have been interested in over the years, as well as a corresponding list of relevant theoretical ideas and numerical techniques. 
+The following is a brief description of the subjects I have been interested in over the years, as well as a corresponding list of relevant analytical methods and numerical techniques. 
 
 ### Oscillations of rapidly rotating stars
 
@@ -28,7 +26,7 @@ By studying the asymptotic regime of pressure waves with the tools of [quantum c
 of these stars is a superposition of different 'integrable' (regular) and 'chaotic' (irregular) sub-spectra. 
 Most importantly for asteroseismology, we obtained semi-analytical formulas that predict the values of regular frequency spacings in the 'integrable' spectrum, which can provide constraints on physical properties of rapidly rotating stars which are observed.
 
-   - Quantum/wave chaos, Gutzwiller trace formula, Random matrix theory
+   - Quantum chaos, Gutzwiller trace formula, Random matrix theory
 
 ### Floquet topological insulators and their photonic analogs
 
@@ -36,8 +34,13 @@ Most importantly for asteroseismology, we obtained semi-analytical formulas that
 
    - Topological band theory, Network models of quantum phase transitions
 
-### Anderson localization of cold atomic gases in speckle potentials
+### Anderson transition in disordered cold atomic gases
 
 (Coming soon!)
 
    - Transfer-matrix algorithms, Finite-size scaling, Diagrammatic perturbation theory
+
+### Spin-imbalanced Fermi superfluids and Bose-Fermi mixtures
+
+(Coming soon!)
+
