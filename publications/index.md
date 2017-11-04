@@ -7,13 +7,13 @@ share: false
 
 {% include _toc.html %}
 
-### Preprints
+#### Preprints
 
   5. V. V. Volchkov, M. Pasek, V. Denechaud, M. Mukhtar, A. Aspect, D. Delande, and V. Josse\\
   **Measurement of spectral functions of ultracold atoms in disordered potentials**\\
   [arXiv:1707.07577](http://arxiv.org/abs/1707.07577)
 
-### Peer-reviewed articles
+#### Peer-reviewed articles
 
   6. M. Pasek, G. Orso, and D. Delande\\
   **Anderson Localization of Ultracold Atoms: Where is the Mobility Edge?**\\
@@ -41,7 +41,7 @@ share: false
   [Phys. Rev. Lett. **107**, 121101 (2011)](http://prl.aps.org/abstract/PRL/v107/i12/e121101), [arXiv:1105.5586](http://arxiv.org/abs/1105.5586)\\
   (Article featured in a press release of the Institut de Physique du CNRS, [**Ausculter les étoiles en rotation**](http://www.cnrs.fr/inp/spip.php?article533), in French)
 
-### Book chapters
+#### Book chapters
 
   1. M. Pasek, and B. Georgeot\\
   **Regular and Irregular Pressure Modes in Rapidly Rotating Stars**\\
