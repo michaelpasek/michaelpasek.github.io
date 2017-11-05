@@ -25,17 +25,13 @@ By studying the asymptotic regime of pressure waves with the tools of [quantum c
 of these stars is a superposition of different 'integrable' (regular) and 'chaotic' (irregular) sub-spectra. 
 Most importantly for asteroseismology, we obtained semi-analytical formulas that predict the values of regular frequency spacings in the 'integrable' spectrum, which can provide constraints on physical properties of rapidly rotating stars which are observed. --->
 
-(Coming soon!)
 
 #### Floquet topological insulator phases in network models
 
-(Coming soon!)
 
 #### Quantum transport in disordered cold atomic gases
 
-(Coming soon!)
 
 #### Spin-imbalanced Fermi superfluids and Bose-Fermi mixtures
 
-(Coming soon!)
 
