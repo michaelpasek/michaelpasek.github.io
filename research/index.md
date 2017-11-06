@@ -17,10 +17,9 @@ Below is a brief description of some specific problems that I have been interest
 #### Oscillations of stars that are deformed by their own rotation
 
 Asteroseismology is a technique from the field of Astrophysics that aims at inferring the internal properties of stars from the monitoring of their surface oscillations (one may call them ``starquakes'' by analogy with earthquakes here on Earth).
-
-<img src="http://michaelpasek.github.io/images/Kepler_crop.jpg" title="Artist's rendition of Kepler spacecraft" width="200" height="200" alt="image-right" class="align-right" />
-
 Properties of these surface oscillations can be measured from high-precision Earth-based or space-based observatories, the [Kepler space telescope](http://www.nature.com/news/kepler-s-surprise-the-sounds-of-the-stars-1.9724) being one recent example.
+
+![image-right](http://michaelpasek.github.io/images/Kepler_crop.jpg "Artist's rendition of Kepler spacecraft"){: .align-right}
 
 From the measured oscillation frequencies, useful predictions on the stellar interior can be drawn provided one has some a priori knowledge on the basic structure of the oscillation spectrum. 
 For stars which are almost spherical, such as our closest star [the Sun](http://sohowww.nascom.nasa.gov/gallery/bestofsoho.html), the spatial and spectral structure of surface oscillations is well known, which allowed astrophysicists to make [detailed predictions](http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.74.1073) on the properties of their interior.
