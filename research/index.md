@@ -16,7 +16,8 @@ Below is a brief description of some specific problems that I have been interest
 
 #### Oscillations of stars that are deformed by their own rotation
 
-Asteroseismology is a technique from the field of Astrophysics that aims at inferring the internal properties of stars from the monitoring of their surface oscillations (one may call them ``starquakes'' by analogy with earthquakes here on Earth).
+Asteroseismology is a technique from the field of Astrophysics that aims at inferring the internal properties of stars from the monitoring of their surface oscillations.
+These ``starquakes'', just like earthquakes here on Earth, are due to waves propagating below the surface, in their complex interior.
 Properties of these surface oscillations can be measured from high-precision Earth-based or space-based observatories, the [Kepler space telescope](http://www.nature.com/news/kepler-s-surprise-the-sounds-of-the-stars-1.9724) being one recent example.
 
 ![image-right](http://michaelpasek.github.io/images/Kepler_crop.jpg "Artist's rendition of Kepler spacecraft"){: .align-right}
@@ -36,6 +37,32 @@ Eventually, this should allow astrophysicsts to test further the theories of ste
 
 #### Floquet topological insulator phases in network models
 
+<!--- A recently proposed class of topological photonic systems is shown to map onto the Chalker-
+Coddington network model, which was originally formulated to study disordered quantum Hall
+systems. Formally, stationary states of network models are equivalent to the Floquet states of a
+periodically driven lattice. We show that such network models can indeed exhibit topologically
+protected edge states even if all bands have zero Chern number, which is a characteristic property
+of Floquet band structures. 1 .
+We also report on the measurement of a topological
+invariant in a (microwave) photonic implementation of
+the network model. Here the topological edge inva-
+riant is directly accessible through the winding number
+of the complex reflection coefficients. The experiment
+can be regarded as a variant of a topological pump, with
+nonzero winding in the reflection matrix implying the
+existence of topological edge states. 2 .
+Schematic of the topological pump se-
+tup which was used to measure the topological
+invariant of a 2D photonic network. Right : Ar-
+guments of the complex scattering matrix eigen-
+values for the two-cell network, as the pumping
+parameter is tuned through 2pi. The two eigenva-
+lues having winding numbers +/-1 corresponds to
+the bulk band structure being topologically non-
+trivial. --->
+<img src="http://michaelpasek.github.io/images/CCnet.png" width="200" title="2D electron gas in a smooth disordered potential and strong magnetic field"/> <img src="http://michaelpasek.github.io/images/network.png" width="300" title="Chalker-Coddington network model"/>
+
+![image-right](http://michaelpasek.github.io/images/PhysRevX.png "Schematic rendition of the topological pump experiment. Credit: Yidong Chong (Nanyang Technological University)"){: .align-right}
 
 #### Quantum transport in disordered cold atomic gases
 
