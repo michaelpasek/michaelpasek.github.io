@@ -18,7 +18,7 @@ Below is a brief description of some specific problems that I have been interest
 
 Asteroseismology is a technique from the field of Astrophysics that aims at inferring the internal properties of stars from the monitoring of their surface oscillations (one may call them ``starquakes'' by analogy with earthquakes here on Earth).
 
-<p><img src="http://michaelpasek.github.io/images/Kepler_crop.jpg" title="Artist's rendition of Kepler spacecraft" width="200" height="200" alt="image-right" class="align-right" /></p>
+<img src="http://michaelpasek.github.io/images/Kepler_crop.jpg" title="Artist's rendition of Kepler spacecraft" width="200" height="200" alt="image-right" class="align-right" />
 
 Properties of these surface oscillations can be measured from high-precision Earth-based or space-based observatories, the [Kepler space telescope](http://www.nature.com/news/kepler-s-surprise-the-sounds-of-the-stars-1.9724) being one recent example.
 
