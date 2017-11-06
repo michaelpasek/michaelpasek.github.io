@@ -32,8 +32,7 @@ As a consequence, the basic structure of their oscillation spectrum could not be
 By studying the oscillations in a generic stellar model deformed by rotation through high-accuracy numerical simulations, and using the theoretical framework of [quantum chaos](http://www.scientificamerican.com/article/quantum-chaos-subatomic-worlds/) to interpret these results, we were able to show that the oscillation spectrum of rotating stars is a superposition of many different regular and irregular sub-spectra. 
 Most importantly for asteroseismology, we managed to derive a mathematical formula satisfied by some frequency spacings in the regular spectrum. 
 If these spacings are identified in observed spectra, it can indeed provide important constraints on the internal physical properties of rotating stars.
-Eventually, this should allow astrophysicsts to test further the theories of stellar structure and evolution for massive stars that rotate rapidly.
-
+Eventually, this should allow astrophysicists to test further the theories of stellar structure and evolution for massive stars that rotate rapidly.
 
 #### Floquet topological insulator phases in network models
 
@@ -60,7 +59,7 @@ parameter is tuned through 2pi. The two eigenva-
 lues having winding numbers +/-1 corresponds to
 the bulk band structure being topologically non-
 trivial. --->
-<img src="http://michaelpasek.github.io/images/CCnet.png" width="200" title="2D electron gas in a smooth disordered potential and strong magnetic field"/> <img src="http://michaelpasek.github.io/images/network.png" width="300" title="Chalker-Coddington network model"/>
+<img src="http://michaelpasek.github.io/images/CCnet.png" width="200" title="2D electron gas in a smooth disordered potential and strong magnetic field"/> <img src="http://michaelpasek.github.io/images/network.png" width="200" title="Chalker-Coddington network model"/>
 
 ![image-right](http://michaelpasek.github.io/images/PhysRevX.png "Schematic rendition of the topological pump experiment. Credit: Yidong Chong (Nanyang Technological University)"){: .align-right}
 
