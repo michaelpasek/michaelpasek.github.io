@@ -16,14 +16,15 @@ Below is a brief description of some specific problems that I have been interest
 
 #### Oscillations of stars that are deformed by their own rotation
 
-<!--- [Asteroseismology](http://www.nature.com/news/kepler-s-surprise-the-sounds-of-the-stars-1.9724) aims at inferring the properties of stars from the analysis of their oscillation frequencies. 
-This process can be greatly simplified when a theoretical prediction for the basic structure of the oscillation spectrum is available. 
-Such is the case for stars which are (almost) spherically symmetric, e.g. [the Sun](http://sohowww.nascom.nasa.gov/gallery/bestofsoho.html), where the asymptotic (i.e. high-frequency) structure of the pressure-mode spectrum is well known.
-However, most intermediate-mass and massive stars are [rapidly rotating on their axes](http://dept.astro.lsa.umich.edu/~monnier/Altair2007/altair2007.html), such that spherical symmetry is broken by the effect of the centrifugal force.
-For those rapidly rotating stars, an adequate asymptotic theory of oscillation modes was thus missing. 
-By studying the asymptotic regime of pressure waves with the tools of [quantum chaos](http://www.scientificamerican.com/article/quantum-chaos-subatomic-worlds/), we were able to show that the oscillation spectrum 
-of these stars is a superposition of different 'integrable' (regular) and 'chaotic' (irregular) sub-spectra. 
-Most importantly for asteroseismology, we obtained semi-analytical formulas that predict the values of regular frequency spacings in the 'integrable' spectrum, which can provide constraints on physical properties of rapidly rotating stars which are observed. --->
+Asteroseismology is a technique from the field of Astrophysics that aims at inferring the internal properties of stars from the monitoring of their surface oscillations (one may call them ``starquakes'' by analogy with earthquakes here on Earth).
+Properties of these surface oscillations, such as their frequencies, can be measured from high-precision Earth-based or space-based observatories, the [Kepler](http://www.nature.com/news/kepler-s-surprise-the-sounds-of-the-stars-1.9724) space mission being one example.
+![alt text](http://michaelpasek.github.io/images/Kepler_crop.jpg "Artist's rendition of Kepler spacecraft.\n Source: http://kepler.nasa.gov/multimedia/artwork/artistsconcepts/?ImageID=23")
+To deduce useful predictions on the stellar interior from the measured oscillation frequencies, one needs however to have some theoretical a priori knowledge of the basic structure of the oscillation spectrum. 
+For stars which are almost spherical, such as our closest star [the Sun](http://sohowww.nascom.nasa.gov/gallery/bestofsoho.html), the spatial and spectral structure of surface oscillations is well known, which allowed astrophysicists to make very detailed predictions on their interior.
+However, for most stars, in particular those that are more massive than the Sun, the fact that they rotate rapidly on their axes makes them strongly depart from spherical symmetry, and the basic structure of their spectrum could not be obtained with traditional methods of asteroseismology.
+![alt text](http://www-personal.umich.edu/~monnier/Altair2007/Altair_files/PR_image6.jpg "Credit: Ming Zhao (University of Michigan)")
+By studying the oscillations of some generic model of a rapidly rotating star through high-accuracy numerical simulations and using the theoretical framework of [quantum chaos](http://www.scientificamerican.com/article/quantum-chaos-subatomic-worlds/) to interpret those results, we were able to show that the oscillation spectrum of massive stars is a superposition of many different regular and irregular sub-spectra. 
+Most importantly for asteroseismology of such massive stars, we managed to predict the values of some frequency spacings in the regular spectrum, which can provide important constraints on their internal physical properties.
 
 
 #### Floquet topological insulator phases in network models
