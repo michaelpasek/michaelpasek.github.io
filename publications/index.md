@@ -9,12 +9,14 @@ share: false
 
 #### Preprints
 
-  - V. V. Volchkov, M. Pasek, V. Denechaud, M. Mukhtar, A. Aspect, D. Delande, and V. Josse\\
-  **Measurement of spectral functions of ultracold atoms in disordered potentials**\\
-  [arXiv:1707.07577](http://arxiv.org/abs/1707.07577)
+  - ...
 
 #### Peer-reviewed articles
 
+  - V. V. Volchkov, M. Pasek, V. Denechaud, M. Mukhtar, A. Aspect, D. Delande, and V. Josse\\
+  **Measurement of spectral functions of ultracold atoms in disordered potentials**\\
+  Phys. Rev. Lett., *in press*, [arXiv:1707.07577](http://arxiv.org/abs/1707.07577)
+  
   - M. Pasek, G. Orso, and D. Delande\\
   **Anderson Localization of Ultracold Atoms: Where is the Mobility Edge?**\\
   [Phys. Rev. Lett. **118**, 170403 (2017)](https://doi.org/10.1103/PhysRevLett.118.170403), [arXiv:1609.01065](http://arxiv.org/abs/1609.01065)
